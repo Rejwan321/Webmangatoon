@@ -1,0 +1,19 @@
+.article {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .article h2 {
+    font-size: 28px;
+    color: #1e90ff;
+  }
+  
+  .article p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
